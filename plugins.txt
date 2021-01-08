@@ -1,4 +1,4 @@
-ace-editor:latest
+ace-editor:latest 
 ant:latest
 antisamy-markup-formatter:latest
 authentication-tokens:latest
